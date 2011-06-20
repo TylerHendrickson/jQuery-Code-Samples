@@ -8,7 +8,8 @@ Note: Credit is given where due in the comments of scripts which have specific d
 DESCRIPTION
 These are some samples of my work with jQuery.
 These include the following:
-  -Scripts (located in ./scripts)
+  -Scripts, includes some useful utilities I have created,
+  as well as some site-specific page initialization scripts.
   -Nodalizer, a work-in-progress plugin that organizes DOM elements
   into a hierachical structure of parent and child elements or "nodes".
   Clicking on a parent node causes its children to toggle visibility:
