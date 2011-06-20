@@ -1,0 +1,61 @@
+/*
+
+Homepage Map Stylesheet
+
+*/
+
+body {
+    background-color: #6BC2B2;
+    /* Unset to scroll page */
+    overflow:hidden;
+}
+
+#homenav {
+    background-color: #2B2B2B;
+    border-color: #2B2B2B;
+    border-style: solid;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 900px;
+    height: 500px;
+    float:right;
+}
+
+label {
+    display:inline-block;
+    float: none;
+    background-color:#2B2B2B;
+    border-color: #FFF;
+    border-width: 1px;
+    text-align: center;
+    max-width: 100px;
+    border-style: solid;
+    color: #6BC2B2;
+    padding: 10px;
+    margin: 10px;
+    font-family: verdana;
+}
+
+#homenav div {
+    position: absolute;
+    max-width: 115px;
+    display: block;
+    left: 40%;
+    top: 5%;
+}
+
+#homenav div div  {
+    position:relative;
+    display: block;
+    margin: 10px;
+    top: 5%;
+}
+
+#homenav div div div {
+    position: relative;
+    display: block;
+    left: 200px;
+    top: -100px;
+}
+

@@ -1,0 +1,19 @@
+README: jQquery Code Samples
+---------------------------------
+CREDITS
+Author: Tyler Hendrickson
+Email: hendrickson (dot) tsh (at) gmail (dot) com
+Note: Credit is given where due in the comments of scripts which have specific dependencies.
+---------------------------------
+DESCRIPTION
+These are some samples of my work with jQuery.
+These include the following:
+  -Scripts (located in ./scripts)
+  -Nodalizer, a work-in-progress plugin that organizes DOM elements
+  into a hierachical structure of parent and child elements or "nodes".
+  Clicking on a parent node causes its children to toggle visibility:
+    -Clicking a "closed" parent will show its immediate children
+    -Clicking an "opened" parent will hide all of its descendants.
+---------------------------------
+
+That's it!  Enjoy and contact me for any questions.
